@@ -1,0 +1,7 @@
+# Ignore testing files
+*testing.py
+venv/
+env/
+.vscode/
+app.py
+sig.py
